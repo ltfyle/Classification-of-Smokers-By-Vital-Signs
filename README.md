@@ -1,5 +1,7 @@
 ::: {#109b904ec5eaa8b7 .cell .markdown}
-To see a more complete version of the project, go to the project notebook. 
+## Little side note from the author
+To see a more complete version of the project, go to the project notebook. nbconvert was not working on my computer, so I used an online software. 
+Otherwise, enjoy :) Please message me if you any feedback or questions! 
 # Classification of Smokers and Nonsmokers by Vital Signs
 
 ## Problem Statement
