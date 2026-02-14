@@ -1,4 +1,5 @@
 ::: {#109b904ec5eaa8b7 .cell .markdown}
+To see a more complete version of the project, go to the project notebook. 
 # Classification of Smokers and Nonsmokers by Vital Signs
 
 ## Problem Statement
